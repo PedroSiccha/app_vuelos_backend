@@ -9,10 +9,6 @@ class Flight {
         this.availableSeats = availableSeats;
         this.price = price;
       }
-      
-      // Métodos getters y setters (si es necesario)
-      
-      // Otros métodos o funciones relacionados con la entidad Flight
     }
     
     module.exports = Flight;
